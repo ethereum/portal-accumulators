@@ -3,10 +3,4 @@ final master acc. root hash: 0x40d0ec5ce5b60d8f350a5c7651aac39d85a9e5ee52695a796
 
 - epoch_index
 - bridge_content/
-- ./maccs
-  - all of the epoch accumulators, encoded into ssz bytes as hexstrings
-  - `...txt` - ssz encoded as hexstring master accumulator
-  - `...txt` - text encoded master accumulator
-- ./maccs_bin
-  - all of the epoch accumulators, encoded into ssz bytes into binary
-  - master accumulator, encoded into ssz bytes into binary
+	- epoch accumulators & master accumulator encoded according to the [bridge-client spec](https://eth-portal.readthedocs.io/en/latest/bridge.html#inject-content-manually)
