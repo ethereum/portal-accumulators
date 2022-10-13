@@ -1,7 +1,7 @@
 # final block included in master acc:
-- `15537394`
+- `15537393`
 # final master acc. root hash:
-- `0x40d0ec5ce5b60d8f350a5c7651aac39d85a9e5ee52695a796f4c18496aa16a3d`
+- `0x1703fbb6d3310ff8582174239a665bc382aa0c83d6f1d00ee09b3036f95616f8`
 
 # Index
 - `epoch_index.txt`
