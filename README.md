@@ -7,6 +7,10 @@
     - final block included in master acc: `15537393`
     - final master acc. root hash: `0x8eac399e24480dce3cfe06f4bdecba51c6e5d0c46200e3e8611a0b44a3a69ff9`
 
+# Pre-Capella Historical roots
+- `historical_roots/`
+   - Frozen pre-Capella historical roots 
+
 # Pre-Capella Historical Batches
 - `historical_batches/`
    - Generated historical batches for Pre-Capella(since the Merge) block and state roots.
