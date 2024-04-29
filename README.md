@@ -10,6 +10,7 @@
 # Pre-Capella Historical roots
 - `historical_roots/`
    - Frozen pre-Capella historical roots 
+   - SSZ tree hash root: 0x4df6b89755125d4f6c5575039a04e22301a5a49ee893c1d27e559e3eeab73da7
 
 # Pre-Capella Historical Batches
 - `historical_batches/`
